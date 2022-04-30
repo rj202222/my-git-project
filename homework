@@ -1,0 +1,13 @@
+// Object.keys
+// bitwise operators
+
+
+
+const weights = {
+   green: 1,
+   yellow: 2,
+    red: 3,
+}
+
+
+weightedLottery(weights)
